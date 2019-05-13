@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD : 하단에 나와있는 태그들을 해석하는 위치를 설정
+웹 주속 형태로 보이지만 실제로는 jar 파일에서 해석합니다. -->
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+</configuration>
